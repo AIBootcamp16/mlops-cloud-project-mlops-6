@@ -13,11 +13,36 @@
 
 ## 👨‍👩‍👦‍👦 팀 구성원
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
-
+<table>
+  <tr>
+    <td> <div align=center> 👑 </div> </td>
+    <td> <div align=center> 🧔 </div> </td>
+    <td> <div align=center> 🌹 </div> </td>
+    <td> <div align=center> 👨🏻‍🎓 </div> </td>
+    <td> <div align=center> ✏️ </div> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b>임환석</b> </div> </td>
+    <td> <div align=center> <b>김종범</b> </div> </td>
+    <td> <div align=center> <b>윤소영</b> </div> </td>
+    <td> <div align=center> <b>권효주</b> </div> </td>
+    <td> <div align=center> <b>최현</b> </div> </td>
+  </tr>
+  <tr>
+    <td> <img alt="Github" src ="https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-the-high-man-jesus-is-standing-up-among-the-clouds-image_2974129.jpg" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U097H489HD5-910e5dedb760-512" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U096YNDM3CZ-94526243865c-512" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0960JE97NW-fd9ca66411f0-512" width="250" height="300"/> </td>
+     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0962TWVBQC-aec331b4f3e1-512" width="250" height="300"/> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <a href="https://github.com/hwan-han"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/kirin72"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/yourhotb"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/hopeplanting"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+     <td> <div align=center> <a href="https://github.com/yagopji"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    </tr>
+</table>
 <br>
 
 ## 🔨 개발 환경 및 기술 스택
