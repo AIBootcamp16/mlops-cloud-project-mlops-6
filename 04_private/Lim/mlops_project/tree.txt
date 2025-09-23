@@ -1,0 +1,52 @@
+wine-recommender-mlops/
+│── data/                        # (원본 데이터는 .gitignore, 샘플만 업로드)
+│   ├── sample_user_wine_log.csv
+│   └── README.md
+│
+│── notebooks/                   # 탐색적 데이터 분석 & 실험용 노트북
+│   ├── 01_data_exploration.ipynb
+│   └── 02_model_prototype.ipynb
+│
+│── src/                         # 핵심 코드
+│   ├── data_pipeline/           # 데이터 관련
+│   │   ├── fetch_wines.py       # API 크롤러
+│   │   ├── preprocess.py        # 전처리
+│   │   └── generate_logs.py     # 가상 유저 로그 생성
+│   │
+│   ├── models/                  # 모델 관련
+│   │   ├── train.py             # 학습 스크립트
+│   │   └── evaluate.py          # 평가 지표
+│   │
+│   ├── api/                     # API 서버
+│   │   └── app.py               # FastAPI 엔드포인트
+│   │
+│   └── utils/                   # 공통 함수
+│       └── helpers.py
+│
+│── configs/                     # 설정 파일 (모델, 데이터 경로 등)
+│   ├── config.yaml
+│   └── wandb.yaml
+│
+│── tests/                       # 테스트 코드
+│   ├── test_preprocess.py
+│   ├── test_train.py
+│   └── test_api.py
+│
+│── scripts/                     # 실행 스크립트 (파이프라인, 배포 등)
+│   ├── run_pipeline.sh
+│   ├── run_train.sh
+│   └── run_api.sh
+│
+│── result/                      # 결과물 (모델, 로그 등)
+│   ├── wine_recommender.pkl
+│   └── metrics.json
+│
+│── .dvc/                        # DVC 메타데이터 (데이터 버전 관리)
+│
+│── .github/                     # CI/CD 파이프라인
+│   └── workflows/
+│       └── ci_cd.yaml
+│
+│── .gitignore                   # 대용량 데이터, 가상환경, 캐시 제외
+│── requirements.txt             # 패키지 의존성
+│── README.md                    # 프로젝트 소개 (최상위 문서)
