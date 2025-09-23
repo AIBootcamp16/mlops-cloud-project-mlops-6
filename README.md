@@ -53,7 +53,7 @@
 <br>
 
 ## 📁 프로젝트 구조
-<img alt="Github" src ="https://github.com/yagopji/yagopji/blob/main/images/image.png2">
+<img alt="Github" src ="Github" src ="https://github.com/yagopji/yagopji/blob/main/images/image.png2">
 
 ```
 ├── code
