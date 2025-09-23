@@ -53,6 +53,7 @@
 <br>
 
 ## 📁 프로젝트 구조
+!(https://files.slack.com/files-pri/T095CFN0ZT6-F09GKLTJRFU/image.png)
 ```
 ├── code
 │   ├── jupyter_notebooks
