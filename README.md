@@ -1,12 +1,39 @@
-# mlops-cloud-project-mlops-6
+# 🎧 와인 추천 시스템  
 
-Minimal **MLOps-ready scaffold** for a **content-based wine recommender** using FastAPI + Docker.
+## 💻 프로젝트 소개  
+**Wine Recommendation System**  
+
 
 ---
 
-## 📂 Layout
+## ✨ Features  
 
 
+---
+
+## 👥 팀 구성원  
+
+| <img src="https://via.placeholder.com/180x180.png?text=+" width="180"> | <img src="https://via.placeholder.com/180x180.png?text=+" width="180"> | <img src="https://via.placeholder.com/180x180.png?text=+" width="180"> | <img src="https://via.placeholder.com/180x180.png?text=+" width="180"> | <img src="https://via.placeholder.com/180x180.png?text=+" width="180"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [**최현**](#) | [**임환석**](#) | [**김종범**](#) | [**윤소영**](#) | [**권효주**](#) |
+| 팀장, 담당 역할 | 담당 역할 | 담당 역할 | 담당 역할 | 담당 역할 |
+
+
+
+---
+
+
+## 🔨 개발 환경 및 기술 스택  
+- **언어**: Python  
+- **버전 및 이슈 관리**: GitHub  
+- **협업 툴**: GitHub  
+- **주요 라이브러리**: FastAPI, Streamlit, Scikit-learn, Spotipy, Pandas, NumPy  
+
+---
+
+
+
+## 📁 프로젝트 구조  
 
 ```
 mlops-cloud-project-mlops-6/
@@ -22,6 +49,63 @@ mlops-cloud-project-mlops-6/
 └─ .gitignore
 ```
 
+---
+
+
+## 💻 구현 기능  
+
+
+
+
+---
+
+## 🛠️ 작품 아키텍처 (선택 사항)  
+*예시 이미지 – 실제 아키텍처 다이어그램 추가 예정*  
+
+---
+
+
+
+## 🚨 트러블 슈팅  
+1. **OOO 에러 발견**  
+   - 설명: 프로젝트 진행 중 발생한 문제 상황  
+   - 해결: 해결 방법 및 적용한 코드/설정
+
+
+    
+## 📌 프로젝트 회고  
+- 🤔 배운 점  
+- 🚀 개선할 점  
+- 🙌 협업에서 느낀 점  
+
+---
+
+
+
+## 📰 참고자료  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# mlops-cloud-project-mlops-6
+
+Minimal **MLOps-ready scaffold** for a **content-based wine recommender** using FastAPI + Docker.
+
+---
 
 - **src/io_pkg**: HTTP clients, local/S3 storage helpers. No ML logic.
 - **src/pipelines**: Thin CLIs that wire modules in order. No heavy algorithms.
