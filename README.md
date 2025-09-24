@@ -141,3 +141,17 @@ docker build -t wine-reco:latest .
 # 실행
 docker run -d -p 8000:8000 --name wine-reco-api wine-reco:latest
 
+### 1. Build (GitHub Actions 자동 빌드 → DockerHub Push)
+이미지가 자동으로 DockerHub(`hwan00/wine-reco`)에 올라갑니다.
+
+### 2. Run on EC2
+EC2 서버에서 **모델 아티팩트(`artifacts/`)**와 **스냅샷 데이터(`data/snapshots/`)**를 마운트해서 실행하세요:
+
+```bash
+docker rm -f wine-reco-api
+
+docker run -d --name wine-reco-api \
+  -p 8000:8000 \
+  -v /home/ubuntu/mlops-cloud-project-mlops-6/artifacts:/app/artifacts \
+  -v /home/ubuntu/mlops-cloud-project-mlops-6/data/snapshots:/app/data/snapshots \
+  hwan00/wine-reco:latest
