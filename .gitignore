@@ -1,0 +1,19 @@
+# Track code/configs; ignore large/ephemeral data
+data/
+artifacts/
+
+# Keep docs for ignored dirs
+!data/README.md
+!artifacts/README.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+build/
+.env
+.secrets/
