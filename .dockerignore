@@ -1,0 +1,30 @@
+# 가상환경 / 캐시
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 로그 / 임시 파일
+*.log
+*.tmp
+*.swp
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# Git / 버전관리
+.git
+.gitignore
+
+# 데이터 / 결과물 (필요 없을 때)
+artifacts/
+reports/
+data/snapshots/
+
+**/__pycache__/
+.ipynb_checkpoints
+.vscode/
+.idea/
+

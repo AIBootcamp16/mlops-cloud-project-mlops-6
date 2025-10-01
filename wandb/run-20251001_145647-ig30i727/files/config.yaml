@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.22.1
+        e:
+            8h1tcypq9abrdftwkm3gb6q14kk63dh1:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 14
+                    memoryGb: 18
+                    name: Apple M3 Pro
+                    pcpuCores: 5
+                    ramTotalBytes: "19327352832"
+                args:
+                    - --style
+                    - whites
+                cpu_count: 11
+                cpu_count_logical: 11
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "280352485376"
+                email: hwanseok0629@gmail.com
+                executable: /opt/anaconda3/bin/python
+                host: hwan-MacBook-Pro.local
+                memory:
+                    total: "19327352832"
+                os: macOS-15.6.1-arm64-arm-64bit
+                program: -m src.pipelines.embed_fit
+                python: CPython 3.12.4
+                root: /Users/hwanseok/Documents/mlops-cloud-project-mlops-6
+                startedAt: "2025-10-01T05:56:47.748736Z"
+                writerId: 8h1tcypq9abrdftwkm3gb6q14kk63dh1
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+            "4": 3.12.4
+            "5": 0.22.1
+            "12": 0.22.1
+            "13": darwin-arm64
+min_df:
+    value: 2
+ngram:
+    value:
+        - 1
+        - 2
+style:
+    value: whites

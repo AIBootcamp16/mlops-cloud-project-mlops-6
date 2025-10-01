@@ -1,0 +1,36 @@
+{
+  "os": "macOS-15.6.1-arm64-arm-64bit",
+  "python": "CPython 3.12.4",
+  "startedAt": "2025-10-01T06:52:27.235796Z",
+  "args": [
+    "src.app:app",
+    "--reload",
+    "--port",
+    "8000"
+  ],
+  "program": "/opt/anaconda3/bin/uvicorn",
+  "email": "hwanseok0629@gmail.com",
+  "root": "/Users/hwanseok/Documents/mlops-cloud-project-mlops-6",
+  "host": "hwan-MacBook-Pro.local",
+  "executable": "/opt/anaconda3/bin/python",
+  "cpu_count": 11,
+  "cpu_count_logical": 11,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "280394735616"
+    }
+  },
+  "memory": {
+    "total": "19327352832"
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 5,
+    "gpuCores": 14,
+    "memoryGb": 18,
+    "ramTotalBytes": "19327352832"
+  },
+  "writerId": "sbnddols3ymryeiiz1gf3j7nzbx9r3ej"
+}

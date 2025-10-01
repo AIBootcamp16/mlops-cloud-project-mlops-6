@@ -1,0 +1,7 @@
+min_eval_queries: 50
+gate:
+  ndcg_at_10: 0.80
+  region_match_at_10: 0.55
+rollout:
+  promote_if_better_than_prod: true
+  require_both_metrics: true

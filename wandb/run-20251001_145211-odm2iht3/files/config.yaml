@@ -1,0 +1,37 @@
+_wandb:
+    value:
+        cli_version: 0.22.1
+        e:
+            hqi1l0axhc4bt98i5v21p0qrhgg83a0c:
+                args:
+                    - --users
+                    - configs/users.json
+                    - --style
+                    - whites
+                    - --k
+                    - "5"
+                email: hwanseok0629@gmail.com
+                executable: /opt/anaconda3/bin/python
+                host: hwan-MacBook-Pro.local
+                os: macOS-15.6.1-arm64-arm-64bit
+                program: -m src.pipelines.eval_report
+                python: CPython 3.12.4
+                root: /Users/hwanseok/Documents/mlops-cloud-project-mlops-6
+                startedAt: "2025-10-01T05:52:11.437342Z"
+                writerId: hqi1l0axhc4bt98i5v21p0qrhgg83a0c
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 13
+                - 62
+            "4": 3.12.4
+            "5": 0.22.1
+            "12": 0.22.1
+            "13": darwin-arm64

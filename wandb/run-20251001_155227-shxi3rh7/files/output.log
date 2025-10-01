@@ -1,0 +1,6 @@
+[34m[1mwandb[0m:   4 of 4 files downloaded.  
+[32mINFO[0m:     127.0.0.1:56038 - "[1mGET /info?style=reds HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m37137[0m]

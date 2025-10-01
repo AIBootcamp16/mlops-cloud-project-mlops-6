@@ -1,0 +1,12 @@
+{"time":"2025-10-01T14:56:53.839011+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-01T14:56:54.134752+09:00","level":"INFO","msg":"stream: created new stream","id":"onclwb7a"}
+{"time":"2025-10-01T14:56:54.134784+09:00","level":"INFO","msg":"handler: started","stream_id":"onclwb7a"}
+{"time":"2025-10-01T14:56:54.134888+09:00","level":"INFO","msg":"stream: started","id":"onclwb7a"}
+{"time":"2025-10-01T14:56:54.134893+09:00","level":"INFO","msg":"writer: started","stream_id":"onclwb7a"}
+{"time":"2025-10-01T14:56:54.134905+09:00","level":"INFO","msg":"sender: started","stream_id":"onclwb7a"}
+{"time":"2025-10-01T14:56:55.46369+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":1.085409708},{"desc":"uploading artifact tfidf-sparkling","runtime_seconds":0.398064584},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.117412208,"progress":"791B/791B"}],"total_operations":3}}
+{"time":"2025-10-01T14:56:57.168164+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T14:56:57.436524+09:00","level":"INFO","msg":"stream: closing","id":"onclwb7a"}
+{"time":"2025-10-01T14:56:57.436582+09:00","level":"INFO","msg":"handler: closed","stream_id":"onclwb7a"}
+{"time":"2025-10-01T14:56:57.436774+09:00","level":"INFO","msg":"sender: closed","stream_id":"onclwb7a"}
+{"time":"2025-10-01T14:56:57.436818+09:00","level":"INFO","msg":"stream: closed","id":"onclwb7a"}

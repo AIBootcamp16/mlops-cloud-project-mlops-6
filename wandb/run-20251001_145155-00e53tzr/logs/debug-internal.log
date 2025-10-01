@@ -1,0 +1,12 @@
+{"time":"2025-10-01T14:51:55.945724+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-01T14:51:56.242424+09:00","level":"INFO","msg":"stream: created new stream","id":"00e53tzr"}
+{"time":"2025-10-01T14:51:56.242467+09:00","level":"INFO","msg":"handler: started","stream_id":"00e53tzr"}
+{"time":"2025-10-01T14:51:56.243293+09:00","level":"INFO","msg":"stream: started","id":"00e53tzr"}
+{"time":"2025-10-01T14:51:56.243297+09:00","level":"INFO","msg":"writer: started","stream_id":"00e53tzr"}
+{"time":"2025-10-01T14:51:56.243307+09:00","level":"INFO","msg":"sender: started","stream_id":"00e53tzr"}
+{"time":"2025-10-01T14:51:56.638268+09:00","level":"INFO","msg":"stream: closing","id":"00e53tzr"}
+{"time":"2025-10-01T14:52:06.132481+09:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/graphql","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-10-01T14:52:08.9118+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T14:52:09.140471+09:00","level":"INFO","msg":"handler: closed","stream_id":"00e53tzr"}
+{"time":"2025-10-01T14:52:09.140946+09:00","level":"INFO","msg":"sender: closed","stream_id":"00e53tzr"}
+{"time":"2025-10-01T14:52:09.141026+09:00","level":"INFO","msg":"stream: closed","id":"00e53tzr"}

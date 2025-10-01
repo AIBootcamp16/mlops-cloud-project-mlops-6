@@ -1,0 +1,568 @@
+[
+  {
+    "user_id": "u01",
+    "terms": [
+      "ribera",
+      "champagne"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [
+      "whites"
+    ],
+    "prefer_countries": [
+      "spain",
+      "portugal"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u02",
+    "terms": [
+      "meursault",
+      "county"
+    ],
+    "preferred_styles": [
+      "reds"
+    ],
+    "avoid_styles": [
+      "sparkling"
+    ],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u03",
+    "terms": [
+      "languedoc",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "italy",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u04",
+    "terms": [
+      "rivesaltes",
+      "brion"
+    ],
+    "preferred_styles": [
+      "whites"
+    ],
+    "avoid_styles": [
+      "rose"
+    ],
+    "prefer_countries": [
+      "france",
+      "chile",
+      "spain"
+    ],
+    "avoid_countries": [
+      "united states"
+    ],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u05",
+    "terms": [
+      "mendoza",
+      "champagne"
+    ],
+    "preferred_styles": [
+      "reds"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u06",
+    "terms": [
+      "veneto",
+      "champagne"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u07",
+    "terms": [
+      "kistler",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 5,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u08",
+    "terms": [
+      "lodoletta",
+      "jean"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [
+      "rose"
+    ],
+    "prefer_countries": [
+      "france",
+      "spain"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u09",
+    "terms": [
+      "vina",
+      "lodoletta"
+    ],
+    "preferred_styles": [
+      "whites"
+    ],
+    "avoid_styles": [
+      "port"
+    ],
+    "prefer_countries": [
+      "united states",
+      "portugal"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u10",
+    "terms": [
+      "pomerol",
+      "michel"
+    ],
+    "preferred_styles": [
+      "reds"
+    ],
+    "avoid_styles": [
+      "whites"
+    ],
+    "prefer_countries": [
+      "united states",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 5,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u11",
+    "terms": [
+      "gran reserva",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "spain",
+      "austria"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u12",
+    "terms": [
+      "charlemagne",
+      "tenuta"
+    ],
+    "preferred_styles": [
+      "port"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states",
+      "spain"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u13",
+    "terms": [
+      "aubert",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [
+      "rose"
+    ],
+    "prefer_countries": [
+      "france",
+      "portugal"
+    ],
+    "avoid_countries": [
+      "united states"
+    ],
+    "min_reviews": 0,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u14",
+    "terms": [
+      "toro",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "italy",
+      "united states"
+    ],
+    "avoid_countries": [
+      "portugal"
+    ],
+    "min_reviews": 10,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u15",
+    "terms": [
+      "fils",
+      "bosco"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "chile"
+    ],
+    "avoid_countries": [
+      "italy"
+    ],
+    "min_reviews": 0,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u16",
+    "terms": [
+      "getariako",
+      "graves"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [
+      "port"
+    ],
+    "prefer_countries": [
+      "italy",
+      "united states",
+      "australia"
+    ],
+    "avoid_countries": [
+      "france"
+    ],
+    "min_reviews": 10,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u17",
+    "terms": [
+      "tenuta",
+      "quintarelli"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [
+      "portugal"
+    ],
+    "min_reviews": 5,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u18",
+    "terms": [
+      "south",
+      "vina"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "portugal",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u19",
+    "terms": [
+      "chablis",
+      "colin"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "united states",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u20",
+    "terms": [
+      "fondatore",
+      "gaja"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [
+      "rose"
+    ],
+    "prefer_countries": [
+      "france",
+      "brazil",
+      "italy"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u21",
+    "terms": [
+      "lafon",
+      "giuseppe"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [
+      "port"
+    ],
+    "prefer_countries": [
+      "france",
+      "spain"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u22",
+    "terms": [
+      "perrieres",
+      "frank"
+    ],
+    "preferred_styles": [
+      "sparkling"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "portugal",
+      "italy",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 5,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u23",
+    "terms": [
+      "armand",
+      "della"
+    ],
+    "preferred_styles": [
+      "reds"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "spain"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u24",
+    "terms": [
+      "vintage",
+      "champagne"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [
+      "reds"
+    ],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u25",
+    "terms": [
+      "ferrari",
+      "drouhin"
+    ],
+    "preferred_styles": [
+      "whites"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "italy"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 10,
+    "min_rating": 4.2
+  },
+  {
+    "user_id": "u26",
+    "terms": [
+      "trento",
+      "giuseppe"
+    ],
+    "preferred_styles": [],
+    "avoid_styles": [
+      "reds"
+    ],
+    "prefer_countries": [
+      "italy",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 5,
+    "min_rating": 4.0
+  },
+  {
+    "user_id": "u27",
+    "terms": [
+      "barossa",
+      "champagne"
+    ],
+    "preferred_styles": [
+      "reds"
+    ],
+    "avoid_styles": [
+      "rose"
+    ],
+    "prefer_countries": [
+      "portugal",
+      "italy"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u28",
+    "terms": [
+      "clos",
+      "getariako"
+    ],
+    "preferred_styles": [
+      "rose"
+    ],
+    "avoid_styles": [
+      "port"
+    ],
+    "prefer_countries": [
+      "portugal",
+      "france"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 5,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u29",
+    "terms": [
+      "sonoma",
+      "chardonnay"
+    ],
+    "preferred_styles": [
+      "port"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "united states"
+    ],
+    "avoid_countries": [],
+    "min_reviews": 0,
+    "min_rating": 0.0
+  },
+  {
+    "user_id": "u30",
+    "terms": [
+      "raveneau",
+      "santa"
+    ],
+    "preferred_styles": [
+      "rose"
+    ],
+    "avoid_styles": [],
+    "prefer_countries": [
+      "france",
+      "italy"
+    ],
+    "avoid_countries": [
+      "united states"
+    ],
+    "min_reviews": 5,
+    "min_rating": 0.0
+  }
+]

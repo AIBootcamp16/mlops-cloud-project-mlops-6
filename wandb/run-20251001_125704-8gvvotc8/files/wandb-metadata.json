@@ -1,0 +1,19 @@
+{
+  "os": "macOS-15.6.1-arm64-arm-64bit",
+  "python": "CPython 3.12.4",
+  "startedAt": "2025-10-01T03:57:04.166979Z",
+  "args": [
+    "--users",
+    "configs/users.json",
+    "--style",
+    "whites",
+    "--k",
+    "5"
+  ],
+  "program": "-m src.pipelines.eval_report",
+  "email": "hwanseok0629@gmail.com",
+  "root": "/Users/hwanseok/Documents/mlops-cloud-project-mlops-6",
+  "host": "hwan-MacBook-Pro.local",
+  "executable": "/opt/anaconda3/bin/python",
+  "writerId": "ukutatnhmuw4b5tspbgji47ojey5ufv8"
+}
