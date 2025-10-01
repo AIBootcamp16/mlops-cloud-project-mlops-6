@@ -231,9 +231,11 @@ Terms Hit@K: 키워드 적합도
 Country Hit@K: 국가 취향 반영도
 
 Diversity@K: 추천 다양성
-```
-```
+
+---
+
 ## 실행 순서
+```
 git clone https://github.com/<your-repo>/mlops-cloud-project-mlops-6.git
 
 cd mlops-cloud-project-mlops-6
@@ -246,25 +248,28 @@ wandb login <자신의_API_KEY>
 
 WANDB_ENTITY=<팀원계정> uvicorn src.app:app --reload
 ```
-```
+---
+
 ## 📌 모델 학습 및 자동화 파이프라인 (W&B 연동)
 
 ### 1. 스냅샷 & 임베딩 학습
 와인 데이터를 수집하고 스타일별 TF-IDF 모델을 학습합니다. 학습된 모델은 **W&B Artifact**로 자동 업로드됩니다.
-```bash
+```
 python -m src.pipelines.embed_fit --style reds
 python -m src.pipelines.embed_fit --style whites
 python -m src.pipelines.embed_fit --style sparkling
 ```
+
 ### 2. 추천 성능 평가 (Eval Report)
 
 사용자 프로필(configs/users.json) 기반으로 추천 품질 지표를 산출하고, 결과를 W&B에 로깅합니다.
+```
 python -m src.pipelines.eval_report --users configs/users.json --style reds --k 5
 python -m src.pipelines.eval_report --users configs/users.json --style whites --k 5
 python -m src.pipelines.eval_report --users configs/users.json --style sparkling --k 5
 ```
-```
 ### 3. 최적 모델 자동 선택
+```
 python -m src.pipelines.select_best \
   --project wine-reco \
   --entity <wandb_username> \
@@ -272,6 +277,7 @@ python -m src.pipelines.select_best \
   --maximize
 ```
 
-```
+---
 ### 4. 최적 모델 다운로드
+```
 wandb artifact get <wandb_username>/wine-reco/tfidf-reds:latest
