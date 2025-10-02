@@ -27,7 +27,7 @@
 - **언어**: Python  
 - **버전 및 이슈 관리**: GitHub  
 - **협업 툴**: GitHub  
-- **주요 라이브러리**: FastAPI, Streamlit, Scikit-learn, Spotipy, Pandas, NumPy  
+- **주요 라이브러리**: FastAPI, Streamlit, Scikit-learn, Pandas, NumPy  
 
 ---
 
